@@ -1,7 +1,3 @@
-
-
-
-
 # Student Marks Management System
 
 ## Project Overview
@@ -173,8 +169,25 @@ StudentMarksManagement/
 ## Conclusion
 The Student Marks Management System is a fully functional CRUD web application built with JSP and PostgreSQL. It provides a clean interface for managing student marks and demonstrates essential concepts like session handling, JDBC operations, and responsive design. You can extend it by adding features like search, pagination, or role-based access.
 
-For any questions or further improvements, feel free to contribute or reach out.
+---
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ---
 
-**Happy Coding!**
+## License
+
+This project is for educational purposes. You may use and modify it as needed.
+
+---
+
+## Contact
+
+For questions, suggestions, or issues, please contact:
+
+Project Maintainer: [rahulpotdar2167@gmail.com]  
+GitHub Issues: [https://github.com/Rahul2167/Students_Marks_System/issues]
+
+**Happy Coding!** 🚀
