@@ -1,3 +1,12 @@
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/2615530e-092c-44ef-a224-9af474ecd30c" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/35fab0bb-b13d-4db9-ab93-c5c36f0b51e1" />
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/2697a5ec-3c86-4fa5-8814-236208a32f3b" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/57418a77-da88-4556-9740-020d1e12b634" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/994baf88-7796-4fd1-a065-3a11700c8cfc" />
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/933716a1-a963-471a-a0c4-91ed41024762" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/86620f69-464b-4e29-95b1-842771a4ec54" />
+
+
 # Student Marks Management System
 
 ## Table of Contents
