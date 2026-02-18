@@ -100,13 +100,15 @@ Note: Both update.jsp/updt.jsp and nupdate.jsp/nupdt.jsp serve the same purpose.
 How to Use
 1. Login
 Open the application in your browser.
+
 Enter username and password (default: admin / admin123).
+
 Click Login.
 
-2. View All Records
+3. View All Records
 After successful login, you will see the home.jsp page with a table listing all students.
 
-3. Add a New Record
+4. Add a New Record
 Click the Add Student Marks button.
 
 Fill in the details in the modal form.
