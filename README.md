@@ -100,9 +100,7 @@ Note: Both update.jsp/updt.jsp and nupdate.jsp/nupdt.jsp serve the same purpose.
 How to Use
 1. Login
 Open the application in your browser.
-
 Enter username and password (default: admin / admin123).
-
 Click Login.
 
 2. View All Records
