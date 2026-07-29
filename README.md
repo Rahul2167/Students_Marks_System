@@ -189,7 +189,7 @@ Contact
 -------
 For questions, suggestions, or issues, please contact:
 
-- **Project Maintainer:** [rahulpotdar2167@gmail.com](mailto:rahulpotdar2167@gmail.com)
+- **Project Maintainer:** [Rahul Potdar]
 - **GitHub Issues:** [https://github.com/Rahul2167/Students_Marks_System/issues](https://github.com/Rahul2167/Students_Marks_System/issues)
   
 Happy Coding! 🚀
